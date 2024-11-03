@@ -7,4 +7,4 @@ slug: test
 description: This is a blank page
 ---
 
-This is a liang xinshu
+This is a comic book
